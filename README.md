@@ -40,14 +40,6 @@ npm install
 
 node server.js
 
-Future Improvements
-
-- Message reactions
-- Image sharing
-- Authentication
-- MongoDB storage
-- Private messaging
-
 Screenshots
 
 Home Screen
@@ -65,3 +57,11 @@ Dark Mode
 typing Indicator
 
 ![Typing indicator](server/screenshots/typing-indicator.png)
+
+Future Improvements
+
+- Message reactions
+- Image sharing
+- Authentication
+- MongoDB storage
+- Private messaging
