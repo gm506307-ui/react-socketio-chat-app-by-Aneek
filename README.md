@@ -1,8 +1,9 @@
-Real Time Chat App
+## Real Time Chat App
 
-A real-time chat application built using React.js and Socket.IO.
+A real-time chat application built with React.js, Node.js, Express.js, and Socket.IO.
+Users can join chat rooms, send messages instantly, view online users, and use features like dark mode, typing indicators, message editing, deletion, and seen receipts.
 
-Features
+## Features
 
 - Real-time messaging
 - Join and leave rooms
@@ -19,28 +20,7 @@ Features
 - Clear room chat
 - Seen receipts
 
-Tech Stack
-
-- React.js
-- Node.js
-- Express.js
-- Socket.IO
-
-Installation
-
-Client
-
-npm install
-
-npm start
-
-Server
-
-npm install
-
-node server.js
-
-Screenshots
+## Screenshots
 
 Home Screen
 
@@ -58,7 +38,25 @@ typing Indicator
 
 ![Typing indicator](server/screenshots/typing-indicator.png)
 
-Future Improvements
+## Technologies Used
+
+- React.js
+- Node.js
+- Express.js
+- Socket.IO
+- CSS
+- Git & GitHub
+
+## What I Learned
+
+- React Hooks
+- Real-time communication with Socket.IO
+- Client-server architecture
+- State management
+- Git and GitHub workflow
+- Debugging and problem solving
+
+## Future Improvements
 
 - Message reactions
 - Image sharing
