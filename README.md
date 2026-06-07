@@ -53,3 +53,15 @@ Screenshots
 Home Screen
 
 ![Home Screen](server/screenshots/chat-home.png)
+
+Chat Room
+
+![Chat Room](server/screenshots/chat-room.png)
+
+Dark Mode
+
+![Dark Mode](server/screenshots/dark-mode.png)
+
+typing Indicator
+
+![Typing indicator](server/screenshots/typing-indicator.png)
