@@ -1,1 +1,1 @@
-# react-socketio-cht-app
+# react-socketio-chat-app by Aneek
