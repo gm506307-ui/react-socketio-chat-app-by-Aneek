@@ -47,3 +47,9 @@ Future Improvements
 - Authentication
 - MongoDB storage
 - Private messaging
+
+Screenshots
+
+Home Screen
+
+![Home Screen](server/screenshots/chat-home.png)
